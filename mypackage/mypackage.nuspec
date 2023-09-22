@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>mypackage</id>
+    <version>1.0.0</version>
+    <title>bgmypackageinfo</title>
+    <authors>mister</authors>
+    <owners>nobody</owners>
+    <licenseUrl>https://perdu.com</licenseUrl>
+    <projectUrl>https://perdu.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>mypackage for demonstration only.</description>
+    <summary>this is a demo</summary>
+    <tags>demo mypackage</tags>
+  </metadata>
+</package>
